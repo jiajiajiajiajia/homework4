@@ -4,5 +4,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="第九章"/>
 	<classpathentry kind="src" path="第八章 异常"/>
+	<classpathentry kind="src" path="随笔练"/>
+	<classpathentry kind="src" path="第十章 集合"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
